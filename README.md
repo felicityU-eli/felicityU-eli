@@ -7,9 +7,6 @@ I'm a 4th-year **Mechatronics Engineering student** from Talisay, Batangas, turn
 - **Baking**: Just as I love engineering precision, I find joy in the science of baking – turning flour into something delicious. 🍪
 - **Exploration**: I'm always learning, discovering new tools and techniques to improve my skills.
 
-## 🎨 Current Fascination:
-I'm on a quest to build my own version of **Baymax** – a personal health companion bot! 🤖 Inspired by my love for robotics and design, this project is a perfect challenge to blend my engineering skills with creativity.
-
 ## 🛠️ My Tech Stack:
 - **Languages**: Python, C++, MATLAB
 - **Hardware**: Arduino, Sensors, Actuators
